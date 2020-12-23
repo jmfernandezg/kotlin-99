@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.4.19"
+    kotlin("jvm") version "1.4.20"
 }
 
 dependencies {
