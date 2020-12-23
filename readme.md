@@ -68,7 +68,7 @@ Example:
 5
 ```
 
-### [P04ss][] (*) Find the Nth element of a list.
+### [P03][] (*) Find the Nth element of a list.
 By convention, the first element in the list is element ``0``.
 Example:
 ``` kotlin
