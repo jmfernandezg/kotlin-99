@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\jmfx\Dev\test\Desktop\kotlin-99\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/build/
+/.idea/
+/.gradle/
